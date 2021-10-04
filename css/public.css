@@ -1,0 +1,45 @@
+@font-face {
+    font-family: Open Sans;
+    src: url("../fonts/OpenSans-Regular.ttf");
+    font-weight: regular;
+}
+
+
+body {
+  font-family: Open Sans, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  font-size: 1.0em;
+  font-size:1.0em;
+  margin: 0;
+  padding:0;
+  color: black;
+  background-color: white;
+}
+
+
+h1 {
+     font-size: 1.6em;
+     padding-left:0;
+}
+
+h2 {
+     font-size: 1.3em;
+}
+
+h3 {
+  font-size: 1.1em;
+}
+
+
+a {
+  text-decoration: none;
+  color: #09f;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.bold {
+  font-weight: bold;
+}
